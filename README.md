@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **clone projects**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Devops, DSA**
 
 - 👯 I’m looking to collaborate on **anything related to front end, backend or full-stack development.**
 
