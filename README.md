@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<!--
+
 **Alve2000/Alve2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 [![@alve__07's Holopin board](https://holopin.me/alve__07)](https://holopin.io/@alve__07)
