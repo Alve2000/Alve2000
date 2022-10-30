@@ -38,7 +38,7 @@
 
 [![Alvin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Alve2000&&theme=xcode)](https://github.com/Alve2000)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alve2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alve2000" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alve2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alve2000" /></p> <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alve2000&show_icons=true&locale=en&theme=tokyonight" alt="Alve2000" /></p>
 
