@@ -40,8 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alve2000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alve2000" /></p> 
 
-<br />
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alve2000&show_icons=true&locale=en&theme=tokyonight" alt="Alve2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alve2000&&theme=tokyonight" alt="Alve2000" /></p>
