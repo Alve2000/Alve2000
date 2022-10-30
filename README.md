@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **anything related to front end, backend or full-stack.**
+- 👯 I’m looking to collaborate on **anything related to front end, backend or full-stack development.**
 
 - 💬 Ask me about **html,css,react,express,mongodb,nodejs etc.**
 
