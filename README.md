@@ -22,7 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alve2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alve2000" height="30" width="40" /></a>
+  
 <a href="https://twitter.com/alve__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alve__" height="30" width="40" /></a>
+  
+<a href='mailto:avideait@gmail.com' target='blank'><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpnggrid.com%2Fwp-content%2Fuploads%2F2021%2F04%2FGmail-Transparent-Logo-768x576.png&f=1&nofb=1&ipt=bd6d02c84ddb0d5d21382346b429df92e1df7c2b52b28d86bbe9e15286306360&ipo=images.png" align="center" height="30" alt="Alvin_Nayak" /></a>
+  
 <a href="https://linkedin.com/in/alvin-nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvin-nayak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alvinnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alvinnayak" height="30" width="40" /></a>
 <a href="https://codesandbox.com/alve2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alve2000" height="30" width="40" /></a>
