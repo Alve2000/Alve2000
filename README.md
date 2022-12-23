@@ -2,7 +2,7 @@
 
 # <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Alvin Nayak</h1>
 
-<h3 align="center">A passion-driven full stack (MERN) / Front-end developer from India.</h3>
+<h3 align="center">A passion-driven full stack (MERN/SANITY) / Front-end developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
