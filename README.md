@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **clone projects**
 
-- 🌱 I’m currently learning **full stack development and DSA**
+- 🌱 I’m currently learning **full stack development, DSA and DevOps.**
 
 - 👯 I’m looking to collaborate on **anything related to front end, backend or full-stack development.**
 
