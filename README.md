@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/alve__" target="blank"><img src="https://img.shields.io/twitter/follow/alve__?logo=twitter&style=for-the-badge" alt="alve__" /></a> </p>
 
-- 🔭 I’m currently working on **clone projects**
+- 🔭 I’m currently working on **web development and devops projects**
 
 - 🌱 I’m currently learning **full stack development, DSA and DevOps.**
 
