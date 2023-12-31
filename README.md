@@ -60,6 +60,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FDocker-Symbol-700x394.png&f=1&nofb=1&ipt=4930ec7e5bdd5a097751648eaa3b486adeef5e6912f5e9e6c757b53ce9ece832&ipo=images" alt="docker" width="70" height="40"/> </a> 
+<a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F58480a44cef1014c0b5e4917.png&f=1&nofb=1&ipt=c2e7ec1ad26b01a3176d07d68fe804814ea3914944baa83ea9f947ff42cb7d64&ipo=images" alt="kubernetes" width="40" height="40"/> </a> 
+
 </p> 
 
 </br></br>
