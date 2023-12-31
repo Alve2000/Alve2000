@@ -62,7 +62,7 @@
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F02%2FDocker-Symbol-700x394.png&f=1&nofb=1&ipt=4930ec7e5bdd5a097751648eaa3b486adeef5e6912f5e9e6c757b53ce9ece832&ipo=images" alt="docker" width="70" height="40"/> </a> 
 <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F58480a44cef1014c0b5e4917.png&f=1&nofb=1&ipt=c2e7ec1ad26b01a3176d07d68fe804814ea3914944baa83ea9f947ff42cb7d64&ipo=images" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fubuntu_logo_icon_167735.png&f=1&nofb=1&ipt=ea47f87eb41c95cf34b7f7f5fe8d233b2d938029622035c12f1bc07a0ce7f491&ipo=images" alt="ubuntu-linux" width="40" height="40"/> </a> 
-<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fashitani.jp%2Fgolangtips%2Fgopher.png&f=1&nofb=1&ipt=2fea094238a6881b42faf0a59fda36c2a5b46c4c16ec9b4d3668f57dc275a9ab&ipo=images" alt="go-lang" width="40" height="40"/> </a> 
+<a href="https://www.go.dev" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fashitani.jp%2Fgolangtips%2Fgopher.png&f=1&nofb=1&ipt=2fea094238a6881b42faf0a59fda36c2a5b46c4c16ec9b4d3668f57dc275a9ab&ipo=images" alt="go-lang" width="40" height="60"/> </a> 
 </p> 
 
 </br></br>
