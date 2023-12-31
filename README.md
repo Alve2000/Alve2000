@@ -2,7 +2,7 @@
 
 # <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Alvin Nayak</h1>
 
-<h3 align="center">A passion-driven Full-Stack (MERN/SANITY) / Front-end developer from India.</h3>
+<h3 align="center">A passionate Full-Stack / Front-end developer / DevOps engineer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **anything related to front end, backend or full-stack development.**
 
-- 💬 Ask me about **html,css,react,express,mongodb,nodejs etc.**
+- 💬 Ask me about **html, CSS, react, express, MongoDB, nodejs, DevOps technologies, etc.**
 
 - 📫 How to reach me **alvin.nayak2@gmail.com**
 
